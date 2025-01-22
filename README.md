@@ -1,6 +1,6 @@
 # A repository for my programming problem solutions!
 
-My competitive programming solutions to different have been disorganized for so long! So I'm going to try to utilize this repository as a hub to store all my problem solutions through various sites!
+My competitive programming solutions to different problems have been disorganized for so long! So I'm going to try to utilize this repository as a hub to store all my problem solutions through various sites!
 
 ## Currently Stored 
 - CSES - https://cses.fi/
